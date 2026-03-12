@@ -1,0 +1,19 @@
+body{
+background-color:#f4f4f4;
+}
+
+.competences-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(123, 193, 255);
+    background: linear-gradient(to right, #6fa8dc, #a2c4c9);
+}
+
+.carousel {
+    margin:auto;
+    max-width: 600px;
+}
+
